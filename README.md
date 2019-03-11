@@ -1,4 +1,4 @@
-# vscode_debug_cpp
+# vscode_cpp_enviroment
 
 this repository includes a way to debug your c++ program
 
